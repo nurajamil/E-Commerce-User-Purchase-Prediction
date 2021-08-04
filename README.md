@@ -2,18 +2,24 @@
 
 Due to the large file sizes, the original and cleaned data sets can be found here https://www.dropbox.com/sh/knwwjcmntjzkhy1/AABwtz3Gt2lLpYvMmOMWJjAaa?dl=0
 
-# The cleaned data sets
+### The cleaned data sets
 sessions.csv
+
 users.csv
 
-# The original data sets
-retailrocket/category_tree.csv
-retailrocket/events.csv
-retailrocket/item_properties_part1.csv
-retailrocket/item_properties_part2.csv
 ---
 
-### Problem Statement
+### The original data sets
+retailrocket/category_tree.csv
+
+retailrocket/events.csv
+
+retailrocket/item_properties_part1.csv
+
+retailrocket/item_properties_part2.csv
+
+
+## Problem Statement
 
 An e-commerce company wishes to understand visitors behaviour on its site and the factors that drive these site visitors to make a purchase. This is so that they can better target the right audience and improve future online sales. 
 
@@ -21,7 +27,7 @@ For the aim of this project, the Retailrocket e-commerce dataset from <a href="h
 
 ---
 
-### Executive Summary
+## Executive Summary
 
 There are 2 notebooks for this Capstone project. The main one is "Retailrocket Ecommerce Purchase Prediction" and the second one is "Retailrocket E-commerce Purchase Prediction - Data Cleaning". The latter only covers the data cleaning for each of the 4 datasets from <a href="https://www.kaggle.com/retailrocket/ecommerce-dataset">Kaggle</a> - Item Properties 1, Item Properties 2, Category Tree and Events. Most of the product features in the Item Properties datasets are encrypted except for category id and product availability. Hence, only these two features could be used. The dataset used in the main notebook is the result of the cleaning and merging of the 4 original datasets.
 
