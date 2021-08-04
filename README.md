@@ -1,23 +1,6 @@
 # Retailrocket E-commerce User Purchase Prediction
 
-Due to the large file sizes, the original and cleaned data sets can be found here https://www.dropbox.com/sh/knwwjcmntjzkhy1/AABwtz3Gt2lLpYvMmOMWJjAaa?dl=0
-
-### The cleaned data sets
-sessions.csv
-
-users.csv
-
 ---
-
-### The original data sets
-retailrocket/category_tree.csv
-
-retailrocket/events.csv
-
-retailrocket/item_properties_part1.csv
-
-retailrocket/item_properties_part2.csv
-
 
 ## Problem Statement
 
@@ -108,3 +91,5 @@ Lastly, other models like Neural Network should also be tested.
 ### Data Source
 
 - [Kaggle](https://www.kaggle.com/retailrocket/ecommerce-dataset)
+
+* Due to the large file sizes, the original and cleaned data sets can be found here https://www.dropbox.com/sh/knwwjcmntjzkhy1/AABwtz3Gt2lLpYvMmOMWJjAaa?dl=0
