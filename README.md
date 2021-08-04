@@ -92,4 +92,5 @@ Lastly, other models like Neural Network should also be tested.
 
 - [Kaggle](https://www.kaggle.com/retailrocket/ecommerce-dataset)
 
-* Due to the large file sizes, the original and cleaned data sets can be found here https://www.dropbox.com/sh/knwwjcmntjzkhy1/AABwtz3Gt2lLpYvMmOMWJjAaa?dl=0
+
+*Due to the large file sizes, the original and cleaned data sets can be found here https://www.dropbox.com/sh/knwwjcmntjzkhy1/AABwtz3Gt2lLpYvMmOMWJjAaa?dl=0
